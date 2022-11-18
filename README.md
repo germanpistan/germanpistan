@@ -24,9 +24,9 @@
 
 <br>
 
-[<img align="left" alt="germanpistan | LinkedIn" width="60px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
- [<img width="60px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/germanpistan)
- [<img style = "margin-left = 50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="60px" >](https://twitter.com/GermanPistan)
+[<img alt="germanpistan | LinkedIn" width="60px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]  
+[<img width="60px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" />](https://github.com/germanpistan)  
+[<img style = "margin-left = 50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="60px" />](https://twitter.com/GermanPistan)
 <br>
 <br>
 
